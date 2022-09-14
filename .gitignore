@@ -5,4 +5,3 @@
 /.vscode
 schema.sql
 url-shortener.session.sql
-config.py
